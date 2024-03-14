@@ -14,8 +14,6 @@ The dataset used for this project can be downloaded from [Kaggle](https://www.ka
 4. [Model Evaluation](#model-evaluation)
 5. [Model Inference](#model-inference)
 6. [Visualization](#visualization)
-7. [Usage](#usage)
-8. [Note](#note)
 
 ## Data Preprocessing
 
